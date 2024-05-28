@@ -3,6 +3,15 @@
 
 This repository contains the source code and documentation for an AI-powered document processing pipeline. The pipeline supports document conversion, OCR, preprocessing, and integration with various language models for information extraction, classification, translation, and question answering.
 
+## Screenshots
+![image](https://github.com/krushant1122/AI-Document-Processing-Pipeline/assets/63834509/3080a14e-c895-4b33-bc3c-772b9b0029f9)
+![image](https://github.com/krushant1122/AI-Document-Processing-Pipeline/assets/63834509/7a9361da-8f14-4a1b-9822-1643792f1832)
+![image](https://github.com/krushant1122/AI-Document-Processing-Pipeline/assets/63834509/4f8ab1f6-5d09-4fd3-a93f-9c4f2e162226)
+![image](https://github.com/krushant1122/AI-Document-Processing-Pipeline/assets/63834509/95bc355f-1508-46d2-9d98-b8606c53c8af)
+![image](https://github.com/krushant1122/AI-Document-Processing-Pipeline/assets/63834509/b1c225a4-d229-496d-9b89-a115d2ff5681)
+
+
+
 ## Setup Instructions
 
 ### Prerequisites
